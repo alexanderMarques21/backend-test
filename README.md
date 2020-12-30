@@ -1,5 +1,3 @@
-Olá, se você está recebendo este TESTE é porque você passou pela primeira etapa dessa jornada, Parabéns!
-Gostaríamos que você participasse deste DESAFIO para que possamos testar suas habilidades, será um grande diferencial e um prazer enorme em participar desta fase com você, então vamos lá!
 
 # Teste de back-end Via Varejo
 
